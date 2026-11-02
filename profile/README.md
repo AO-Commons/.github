@@ -20,6 +20,9 @@ AO Commons is a nonprofit research initiative that brings together researchers, 
 
 **[Knowledge Graph](https://github.com/AO-Commons/knowledge-graph)**: a maintained map of research on autonomous organizations, with a taxonomy, a scholarly graph, and claims traced to the sentence they came from. [Browse it](https://ao-commons.github.io/knowledge-graph/) or [suggest an addition](https://github.com/AO-Commons/knowledge-graph/issues/new?template=suggest-addition.yml).
 
+> [!NOTE]
+> The Knowledge Graph is in preview and rolling out gradually. It is not yet ready for functional use, but contributors are welcome to explore it and add their work.
+
 More research tools, methods, and datasets will be published here as they become ready.
 
 ## Get involved
