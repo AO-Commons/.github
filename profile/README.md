@@ -29,6 +29,6 @@ More research tools, methods, and datasets will be published here as they become
 
 We welcome researchers, engineers, and practitioners working on organizational AI safety, empirical evaluation, and shared research infrastructure.
 
-- Read the Knowledge Graph's [contributing guide](https://github.com/AO-Commons/knowledge-graph/blob/main/CONTRIBUTING.md).
+- Fill out our [interest form](https://aocommons.org#get-involved).
 - Open an issue in the relevant repository for questions, bugs, or feedback.
 - Learn more at [aocommons.org](https://aocommons.org), or write to [hello@aocommons.org](mailto:hello@aocommons.org).
